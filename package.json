@@ -1,6 +1,11 @@
 {
   "name": "svelte-app",
   "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joeblethephilgray/svelte-playground.git"
+  },
   "devDependencies": {
     "cross-env": "^5.1.5",
     "css-loader": "^0.28.11",
