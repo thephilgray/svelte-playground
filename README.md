@@ -1,18 +1,8 @@
-# svelte app
+# svelte playground
 
-This is a project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/sveltejs/template-webpack.
+This project was created with the goal of gaining practical experience and insight from working with web components and the Svelte UI framework.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npm install -g degit # you only need to do this once
-
-degit sveltejs/template-webpack svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
+It was built using a template for [Svelte](https://svelte.technology) apps. The original template lives at https://github.com/sveltejs/template-webpack.
 
 ## Get started
 
@@ -30,7 +20,6 @@ npm run dev
 ```
 
 Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and the page should reload with your changes.
-
 
 ## Deploying to the web
 
