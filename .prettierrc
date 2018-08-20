@@ -1,0 +1,11 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": false,
+      "semi": true,
+      "tabWidth": 2,
+      "parser": "babel"
+    }
+  ]
+}
