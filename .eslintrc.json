@@ -1,0 +1,10 @@
+{
+  "plugins": ["prettier"],
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": false
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
