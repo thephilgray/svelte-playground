@@ -1,8 +1,8 @@
 # Svelte Playground
 
-This project was created with the goal of gaining practical experience and insight from working with web components and the [Svelte UI framework](https://svelte.technology).
+The goal of this project is to gain practical experience and insight working with web components and the [Svelte UI framework](https://svelte.technology).
 
-It was built using Svelte's [webpack-template](https://github.com/sveltejs/template-webpack).
+It uses Svelte's [webpack-template](https://github.com/sveltejs/template-webpack).
 
 ## Initial Setup
 
