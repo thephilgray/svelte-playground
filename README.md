@@ -26,7 +26,3 @@ Start with webpack.
   ```
 
 Navigate to [localhost:8080](http://localhost:8080).
-
-## Deploying to the web
-
-To do...
