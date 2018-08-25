@@ -15,6 +15,7 @@
     "serve": "^9.6.0",
     "style-loader": "^0.21.0",
     "svelte": "^2.0.0",
+    "svelte-jest": "^0.2.0",
     "svelte-loader": "2.9.0",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.0.14",
@@ -24,5 +25,16 @@
     "build": "cross-env NODE_ENV=production webpack",
     "dev": "webpack-serve --content public --hot",
     "lint": "eslint --fix --ext .js src"
+  },
+  "jest": {
+    "transform": {
+      "\\.js$": "babel-jest",
+      "\\.html$": "svelte-jest"
+    },
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "html"
+    ]
   }
 }
